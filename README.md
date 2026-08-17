@@ -19,3 +19,6 @@ An HR data analysis project built using Microsoft Excel to analyze employee demo
 
 ## 📌 Project File
 The Excel workbook is included in this repository.
+## 📊 Dashboard Preview
+
+![HR Dashboard](Screenshot%202026-08-13%20014040.png)
